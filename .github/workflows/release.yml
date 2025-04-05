@@ -2,7 +2,7 @@ name: Build CoreProtect Plugin
 on:
   push:
     branches:
-      - main  # Change this to your preferred branch
+      - development # Change this to your preferred branch
   workflow_dispatch:
 
 jobs:
